@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+  }
+  
+  p {
+    color: navy;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+
+h1{
+    color: green;
+  }
+
+h1:hover{
+  color: red;
+  background-color: blue;
+}
+
+footer{
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 1.5em; 
+}
